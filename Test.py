@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-对Apriori规则分析函数的封装
+对Apriori规则分析函数的封装，并使用这个算法
 """
 import pandas as pd
 
